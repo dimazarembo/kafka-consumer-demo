@@ -1,4 +1,4 @@
-package com.example.warehouse_service;
+package com.example.kafka;
 
 public record Order(
         String orderId,
